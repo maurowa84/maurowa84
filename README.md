@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maurowa84
 - 👀 I’m interested in .NET Core Development
-- 🌱 I’m currently learning .NET Core and .NET Architecture, Angular and React
+- 🌱 I’m .NET Core and .NET Developer, Angular and React
 - 💞️ I’m looking to collaborate on BlockChain proyects
 - 📫 How to reach me, my email is mauro84@gmail.com
 
